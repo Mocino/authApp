@@ -1,3 +1,3 @@
 export const environment = {
-  baseUrl: 'http://localhost:3000'
+  baseUrl: 'https://backendnest-production-8749.up.railway.app'
 }
